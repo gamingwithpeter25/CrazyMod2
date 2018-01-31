@@ -1,0 +1,58 @@
+item.dust_crazy.name=Crazy Dust
+item.ingot_crazy.name=Crazy Ingot
+item.dust_copper.name=Copper Dust
+item.ingot_copper.name=Copper Ingot
+
+item.pickaxe_crazy.name=Crazy Pickaxe
+item.axe_crazy.name=Crazy Axe
+item.hoe_crazy.name=Crazy Hoe
+item.sword_crazy.name=Crazy Sword
+item.shovel_crazy.name=Crazy Shovel
+
+item.pickaxe_copper.name=Copper Pickaxe
+item.axe_copper.name=Copper Axe
+item.hoe_copper.name=Copper Hoe
+item.sword_copper.name=Copper Sword
+item.shovel_copper.name=Copper Shovel
+
+item.helmet_crazy.name=Crazy Helmet
+item.chestplate_crazy.name=Crazy Chestplate
+item.leggings_crazy.name=Crazy Leggings
+item.boots_crazy.name=Crazy Boots
+
+item.helmet_copper.name=Copper Helmet
+item.chestplate_copper.name=Copper Chestplate
+item.leggings_copper.name=Copper Leggings
+item.boots_copper.name=Copper Boots
+
+tile.dirt_crazy.name=Crazy Dirt
+tile.dirt_copper.name=Copper Dirt
+tile.ore_overworld_crazy.name=Crazy Ore
+tile.ore_overworld_copper.name=Copper Ore
+tile.block_crazy.name=Crazy Block
+tile.block_copper.name=Copper Block
+tile.crazy_stairs.name=Crazy Stairs
+tile.crazy_fence.name=Crazy Fence
+tile.crazy_fence_gate.name=Crazy Gate
+tile.crazy_furnace_idle.name=Crazy Furnace
+tile.crazy_furnace_active=Crazy Furnace
+tile.crazy_half_slab.name=Crazy Block Slab
+tile.crazy_slab_double.name=Crazy Double Slab
+
+tile.planks_crazy.name=Crazy Planks
+tile.log_crazy.name=Crazy Wood
+tile.leaves_crazy.name=Crazy Leaves
+tile.sapling_crazy.name=Crazy Sapling
+
+tile.planks_copper.name=Copper Planks
+tile.log_copper.name=Copper Wood
+tile.leaves_copper.name=Copper Leaves
+tile.sapling_copper.name=Copper Sapling
+tile.sintering_furnace.name= Sintering Furnace
+
+container.crazy_furnace=Crazy Furnace
+container.crazy_furnace_lit=Crazy Furnace
+
+entity.centaur.name=Centaur
+
+itemGroup.crazymod2=CrazyMod2

@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+	    "III",
+	    "III"      
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "cm:ingot_crazy",
+            "data": 0
+        }
+    },
+    
+    "result":
+    {
+        "item": "cm:block_crazy",
+        "count": 1
+    }
+}

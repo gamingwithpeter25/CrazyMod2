@@ -1,0 +1,25 @@
+{
+    "entity.centaur.ambient":
+    {
+        "category":"entity",
+        "subtitle":"entity.centaur.ambient",
+        "sounds":[{"name":"cm:entity/centaur/ambient","stream":true}]
+        
+    },
+    
+    "entity.centaur.hurt":
+    {
+        "category":"entity",
+        "subtitle":"entity.centaur.hurt",
+        "sounds":[{"name":"cm:entity/centaur/hurt","stream":true}]
+        
+    },
+    
+    "entity.centaur.death":
+    {
+        "category":"entity",
+        "subtitle":"entity.centaur.death",
+        "sounds":[{"name":"cm:entity/centaur/death","stream":true}]
+        
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "axis=y,variant=crazy": { "model": "cm:log_crazy" },
+        "axis=z,variant=crazy": { "model": "cm:log_crazy", "x": 90 },
+        "axis=x,variant=crazy": { "model": "cm:log_crazy", "x": 90, "y": 90 },
+        "axis=none,variant=crazy": { "model": "cm:log_crazy" },
+        
+        "axis=y,variant=copper": { "model": "cm:log_copper" },
+        "axis=z,variant=copper": { "model": "cm:log_copper", "x": 90 },
+        "axis=x,variant=copper": { "model": "cm:log_copper", "x": 90, "y": 90 },
+        "axis=none,variant=copper": { "model": "cm:log_copper" }
+    }
+}

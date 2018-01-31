@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "cm:crazy_slab_bottom" },
+        "half=top": { "model": "cm:crazy_slab_top" }
+    }
+}

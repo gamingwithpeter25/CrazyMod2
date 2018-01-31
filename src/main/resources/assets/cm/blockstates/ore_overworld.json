@@ -1,0 +1,7 @@
+{
+    "variants":
+    {
+        "variant=crazy": { "model": "cm:ore_overworld_crazy" },
+        "variant=copper": { "model": "cm:ore_overworld_copper" }
+    }
+}

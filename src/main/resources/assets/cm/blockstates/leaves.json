@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "check_decay=true,decayable=true,variant=crazy": { "model": "cm:leaves_crazy" },
+        "check_decay=true,decayable=false,variant=crazy": { "model": "cm:leaves_crazy" },
+        "check_decay=false,decayable=true,variant=crazy": { "model": "cm:leaves_crazy" },
+        "check_decay=false,decayable=false,variant=crazy": { "model": "cm:leaves_crazy" },
+        
+        "check_decay=true,decayable=true,variant=copper": { "model": "cm:leaves_copper" },
+        "check_decay=true,decayable=false,variant=copper": { "model": "cm:leaves_copper" },
+        "check_decay=false,decayable=true,variant=copper": { "model": "cm:leaves_copper" },
+        "check_decay=false,decayable=false,variant=copper": { "model": "cm:leaves_copper" }
+    }
+}

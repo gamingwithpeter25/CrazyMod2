@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=top": { "model": "cm:crazy_block" },
+        "half=bottom": { "model": "cm:crazy_block" }
+    }
+}

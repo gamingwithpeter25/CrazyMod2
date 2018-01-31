@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "cm:crazy_furnace_active" },
+        "facing=south": { "model": "cm:crazy_furnace_active", "y": 180 },
+        "facing=west":  { "model": "cm:crazy_furnace_active", "y": 270 },
+        "facing=east":  { "model": "cm:crazy_furnace_active", "y": 90 }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "variants": 
+    {
+        "stage=0,variant=crazy": { "model": "cm:sapling_crazy" },
+        "stage=1,variant=crazy": { "model": "cm:sapling_crazy" },
+        
+        "stage=0,variant=copper": { "model": "cm:sapling_copper" },
+        "stage=1,variant=copper": { "model": "cm:sapling_copper" }
+    }
+}
